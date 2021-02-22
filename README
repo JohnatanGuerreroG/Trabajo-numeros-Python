@@ -1,0 +1,20 @@
+Universidad de Cundinamarca
+Facultad de Ingeniería
+Ingeniería de Sistemas
+Línea de profundización 1
+22/02/2021
+
+Proyecto de aula
+
+Objetivo general : Desarrollar un programa para la sintetización de voz,  reactivo a una entrada de tipo entero utilizando python. 
+
+Objetivos específicos:  Implementar una interfaz gráfica de usuario a través de la utilización de la libreria pysimplegui.
+                        Desarrollar habilidades para el trabajo colaborativo con Git y GitHub.
+                        
+                        
+Ejemplo de caja negra: 
+                    
+                    Entrada: 6
+                    Salida: Síntesis de habla("Usted digitó 6")
+                         
+
